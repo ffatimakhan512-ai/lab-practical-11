@@ -15,7 +15,7 @@ def show_number():
 show_number()
 
 def show_number2():
-    num = 100
+    num = 10
     print(num)
 
 
