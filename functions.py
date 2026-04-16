@@ -1,10 +1,9 @@
 # 1. Function Example
 def greet(name):
-    print(f"Hello, {name}!")
+    print(f"Hello {name}! Welcome 😊")
 
-greet("Ali")
+# calling the function
 greet("Fatima")
-greet("John")
 
 
 # 2. Local Variable
