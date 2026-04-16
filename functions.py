@@ -1,6 +1,6 @@
 # 1. Function Example
 def greet(name):
-    print(f"Hello {name}! Welcome 😊")
+    print(f"Hello {name}! Welcome ")
 
 # calling the function
 greet("Fatima")
